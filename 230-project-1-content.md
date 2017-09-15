@@ -35,7 +35,9 @@ Powers Ups:
 power-ups will spawn at random bubble locations and be granted when the bubble is popped.
 power-ups will not be required to complete any level but will make completing them easier
 ## Screenshots ##
-INSERT LATER
+![alt text](https://github.com/LaurenCBullock/IGME-230/blob/master/GS.png "Screenshot 1")
+![alt text](https://github.com/LaurenCBullock/IGME-230/blob/master/GS1.png "Screenshot 1")
+
 ## Other ##
 the game will be heavily based off of this game:http://www.fairyabc.com/thread/1375/1/1.html
 I don't Currently have any extra Javascript libraries in mind for this project but if it feels necessary I may add one.
