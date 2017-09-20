@@ -3,7 +3,7 @@
 players must strategically pop all the bubbles on the board within the allotted moves, taking advantage of power ups and chain reactions
 ## Genre ##
 The game falls into the Strategic Puzzle, and Chain Reaction category
-##Platform##
+## Platform ##
 Desktop Only
 ## Story ##
 the objective of the game is to pop all the bubbles on screen to reach the next level.
@@ -34,10 +34,9 @@ Powers Ups:
     Extra Moves: based on current level, grants 2-7 extra moves
 power-ups will spawn at random bubble locations and be granted when the bubble is popped.
 power-ups will not be required to complete any level but will make completing them easier
-## Screenshots ##
-![alt text](https://github.com/LaurenCBullock/IGME-230/blob/master/GS.png "Screenshot 1")
+## Screenshots ## 
+![alt text](https://github.com/LaurenCBullock/IGME-230/blob/master/GS.png "Screenshot 1") 
 ![alt text](https://github.com/LaurenCBullock/IGME-230/blob/master/GS1.png "Screenshot 1")
-
 ## Other ##
 the game will be heavily based off of this game:http://www.fairyabc.com/thread/1375/1/1.html
 I don't Currently have any extra Javascript libraries in mind for this project but if it feels necessary I may add one.
